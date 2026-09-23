@@ -1,4 +1,4 @@
-# 🏦 Sistema Bancário em Python
+# Sistema Bancário em Python
 
 Sistema bancário simplificado desenvolvido via linha de comando (CLI) focado no aprendizado de Python, manipulação de arquivos JSON e controle de versão com Git e GitHub.
 
